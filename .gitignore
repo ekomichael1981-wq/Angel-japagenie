@@ -27,3 +27,4 @@ ENV/
 
 # Logs
 *.log
+.env*.local
